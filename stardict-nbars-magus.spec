@@ -1,6 +1,6 @@
 %define	dict_name	magus
 %define version		2.4.2
-%define	release		1
+%define release		2
 
 Name:			stardict-nbars-%dict_name
 Version:		2.4.2
